@@ -5,6 +5,9 @@ CS520
 Hood College
 Spring 2018
 
+Two copies of the state space are included for problem 1 in case one is too grainy. The flat one is more logical but
+the square one may have better resolution.
+
 To run the program for problem 3:
 Navigate to the directory with the miller.py file in it.
 Start a python shell.
